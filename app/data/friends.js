@@ -29,3 +29,5 @@ var friendsData = [{
     scores: [5, 4, 5, 4, 5, 3, 3, 3, 2, 4]
 }
 ];
+
+module.exports= friendsData;
